@@ -16,9 +16,9 @@
 
 <br />
 
-Hi, I'm [Davi Almeida](https://www.linkedin.com/in/davijalmeida/), a passionate self-taught Full Stack web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Davi Almeida](https://www.linkedin.com/in/davijalmeida/), a passionate Brazilian Full Stack developer. I like to participate in big ideas and make them a reality, always paying attention to the UI details, architecture and code quality.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I'm also an open source enthusiast and maintainer. I've learned a lot from the open source community and I love how collaboration and knowledge sharing happen through open source.
 
 
   <img align="right" alt="GIF" src="https://github.com/davijalmeida83/davijalmeida83/blob/master/code.gif?raw=true" width="500" height="320" />
