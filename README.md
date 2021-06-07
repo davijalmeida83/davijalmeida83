@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Davi Almeida](https://www.linkedin.com/in/davijalmeida/), passionate about the best back-end, front-end and mobile development technologies. Chaser of challenges and innovations. I like to participate in big ideas and make them a reality, always paying attention to the UI details, architecture and code quality.
+Hi, I'm [Davi Almeida](https://www.linkedin.com/in/davijalmeida/), dev full-stack passionate about the best back-end, front-end and mobile development technologies. Chaser of challenges and innovations. I like to participate in big ideas and make them a reality, always paying attention to the UI details, architecture and code quality.
 
 I'm also an open source enthusiast and maintainer. I've learned a lot from the open source community and I love how collaboration and knowledge sharing happen through open source.
 
