@@ -2,7 +2,7 @@
 <a href="#">
   <img align="left" alt="Davi Almeida Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/davijalmeida">
+<a href="https://twitter.com/davij_almeida">
   <img align="left" alt="Davi Almeida | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
