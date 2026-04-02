@@ -64,7 +64,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://th.bing.com/th/id/OIP.lHHUjGcwifsvTWvz0ut4vwHaHa?w=172&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="davijalmeida83" />
+<p align="center"> <img src="https://www.bing.com/ck/a?!&&p=240909fc98183b6f592cbbafa1670755955834f90a51c059d7324ec2c11de499JmltdHM9MTc3NTA4ODAwMA&ptn=3&ver=2&hsh=4&fclid=297e64f6-817c-653a-09d5-715c80366449&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW5zK2dpdGh1YitwbmcmaWQ9MzlBMDkxNkIwMTczNDc1MkM4RjM0NjkyOTM3MUYzQkVBNjdCREE2MSZGT1JNPUlRRlJCQQ" alt="davijalmeida83" />
 
 
 
