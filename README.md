@@ -4,7 +4,7 @@
 </a>
 <a href="https://twitter.com/davij_almeida">
   <img align="left" width="22px"
-  src="https://tse2.mm.bing.net/th/id/OIP.nboFwDgiRFu2-Cj3LsdQFQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  src="https://www.freeiconspng.com/uploads/twitter-logo-transparent-15.png"
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
   <img align="left" width="22px"
@@ -13,7 +13,6 @@
 <a href="https://open.spotify.com/user/223e2slc7ewjxfthdnoszzmfi">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.simpleicons.org/spotify" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=davijalmeida83.davijalmeida83)
 
 <br />
 
