@@ -4,7 +4,7 @@
 </a>
 <a href="https://twitter.com/davij_almeida">
   <img align="left" width="22px"
-  src="https://img.freepik.com/premium-vector/twitter-vector-logo-logotype-vector-social-media_901408-401.jpg"
+  src="https://tse2.mm.bing.net/th/id/OIP.nboFwDgiRFu2-Cj3LsdQFQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
   <img align="left" width="22px"
