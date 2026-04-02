@@ -3,10 +3,12 @@
   <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/davij_almeida">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
+  <img align="left" alt="Twitter" width="22px" 
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+  <img align="left" alt="LinkedIn" width="22px" 
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/223e2slc7ewjxfthdnoszzmfi">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.simpleicons.org/spotify" />
