@@ -1,17 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="#">
-  <img align="left" alt="Davi Almeida Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/davij_almeida">
-  <img align="left" alt="Davi Almeida | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
-  <img align="left" alt="Davi Almeida LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://open.spotify.com/user/223e2slc7ewjxfthdnoszzmfi">
-  <img align="left" alt="Davi Almeida Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="22px" src="https://cdn.simpleicons.org/spotify" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=davijalmeida83.davijalmeida83)
 
 <br />
