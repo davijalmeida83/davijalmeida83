@@ -64,7 +64,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img width="22px src="https://tse2.mm.bing.net/th/id/OIP.Uk8TPA9EFXBEuvQbXKVA4QHaER?rs=1&pid=ImgDetMain&o=7&rm=3" alt="davijalmeida83" />
+<p align="center"> <img width="22px" src="https://1-notes.com/wp-content/uploads/2023/09/Github-710x369.png" alt="davijalmeida83" />
 
 
 
