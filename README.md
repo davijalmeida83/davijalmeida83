@@ -64,7 +64,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davijalmeida83&show_icons=true&theme=gotham" alt="davijalmeida83" />
+<p align="center"> <img src="https://th.bing.com/th/id/OIP.lHHUjGcwifsvTWvz0ut4vwHaHa?w=172&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="davijalmeida83" />
 
 
 
