@@ -4,7 +4,7 @@
 </a>
 <a href="https://twitter.com/davij_almeida">
   <img align="left" width="22px"
-  src="https://www.freeiconspng.com/uploads/twitter-logo-transparent-15.png"
+  src="https://clipground.com/images/twitter-logo-transparent-png-7.png"
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
   <img align="left" width="22px"
