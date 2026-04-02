@@ -4,7 +4,8 @@
 </a>
 <a href="https://twitter.com/davij_almeida">
   <img align="left" width="22px"
-  src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg"
+  style="filter: invert(27%) sepia(98%) saturate(7491%) hue-rotate(201deg) brightness(97%) contrast(101%);" />
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
   <img align="left" width="22px"
