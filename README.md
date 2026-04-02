@@ -9,7 +9,7 @@
 </a>
 <a href="https://www.linkedin.com/in/davijalmeida/">
   <img align="left" width="22px"
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  src="https://cdn.simpleicons.org/linkedin/0A66C2" />
 </a>
 <a href="https://open.spotify.com/user/223e2slc7ewjxfthdnoszzmfi">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.simpleicons.org/spotify" />
